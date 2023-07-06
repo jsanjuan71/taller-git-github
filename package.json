@@ -1,0 +1,27 @@
+{
+  "name": "taller-git-github",
+  "version": "1.0.0",
+  "description": "this is an app to explain the git flow",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsanjuan71/taller-git-github.git"
+  },
+  "keywords": [
+    "git",
+    "github",
+    "workshop",
+    "taller",
+    "utel"
+  ],
+  "author": "Julio Sanjuan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsanjuan71/taller-git-github/issues"
+  },
+  "homepage": "https://github.com/jsanjuan71/taller-git-github#readme"
+}
