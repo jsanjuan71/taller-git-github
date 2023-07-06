@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/jsanjuan71/taller-git-github/issues"
   },
-  "homepage": "https://github.com/jsanjuan71/taller-git-github#readme"
+  "homepage": "https://github.com/jsanjuan71/taller-git-github#readme",
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
 }
